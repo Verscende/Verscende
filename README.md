@@ -1,1 +1,0 @@
-# www.verscende.com
