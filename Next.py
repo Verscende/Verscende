@@ -1,7 +1,10 @@
-print "Output is:"
 
-question = "Would you like to know who I am"
-print(question)
-answer = raw_input()
 
-print( "Since you have said "+answer+" , will answer by saying, I am Next a program created by John Nathan Raj")
+print ("Give me a number and I will add 10 to it")
+
+response = raw_input()
+
+number = int(response)
+addition = number +10
+
+print("Your answer is "+ str(addition))
