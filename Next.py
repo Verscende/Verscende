@@ -1,1 +1,2 @@
-print "hello world"
+print "www.google.com"
+print "www.facebook.com"
